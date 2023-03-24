@@ -6,9 +6,9 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions .\
 🎓 &nbsp;I'm currently studying Computer Science at the University of Applied Sciences Velika Gorica.\
-🌱 &nbsp;I'm on track for learning more about Frontend development, currently mastering VueJS.\
+🌱 &nbsp;I'm on track for learning more about Frontend development, currently mastering React and NestJS.\
 ✍️ &nbsp;In my free time, I enjoy playing games like Valorant, Snowrunner and Escape from Tarkov.\
-💬 &nbsp;Feel free to reach out to me for any question, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for any question, or just for some interesting discussion.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -22,7 +22,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Vue](  https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff)&nbsp;
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
