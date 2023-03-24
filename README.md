@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Renato</h2>
+<h2>Hey there! I'm Renato :)</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Renato -->
 
@@ -7,10 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions .\
 🎓 &nbsp;I'm currently studying Computer Science at the University of Applied Sciences Velika Gorica.\
 🌱 &nbsp;I'm on track for learning more about Frontend development, currently mastering React and NestJS.\
-✍️ &nbsp;In my free time, I enjoy playing games like Valorant, Snowrunner and Escape from Tarkov.\
 💬 &nbsp;Feel free to reach out to me for any question, or just for some interesting discussion.
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -21,11 +18,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-<a href="https://github.com/renatoka">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renatoka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renatoka&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<div class="flex">
+    <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+    <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renatoka&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
