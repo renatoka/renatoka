@@ -1,1 +1,1 @@
-![carbon](https://github.com/renatoka/renatoka/assets/72624715/2646cbf5-be3d-424d-a031-3c383016cd10)
+![carbon](https://github.com/renatoka/renatoka/assets/72624715/e8305a5a-3d9f-4b16-922f-0d83e5dc4def)
