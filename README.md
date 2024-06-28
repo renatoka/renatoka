@@ -1,7 +1,3 @@
-<h1 align="center">Hi, welcome to my profile. My name is Renato 👋</h1>
-
-###
-
 <div align="center">
   <img height="400" src="https://media.makeameme.org/created/nodejs.jpg"  />
 </div>
